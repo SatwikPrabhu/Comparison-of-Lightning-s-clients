@@ -5,3 +5,5 @@ pathfind.py - Contains cost functions and the general Dijkstra path finding algo
 populate_graph.py - Contains functions to help convert snapshot to a graph
 
 analysis.py - Main executable file to run transactions for different path finding algorithms and store paths in csv files
+
+Link to snapshot used - https://surfdrive.surf.nl/files/index.php/s/5nYcgMW3Psygle4
